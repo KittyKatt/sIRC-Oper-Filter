@@ -1,0 +1,21 @@
+sIRC Oper FIlter - A perl script designed to filter an IRC-Op's (snotices)
+tab to be more human readable. Built to run on Inspire IRCd.
+
+This little perl script gets loaded into an IRC-Op's X-Chat, and takes
+care of the rest itself. It takes status of the message and places it to
+the left of the margin and places the actual message to the right, making
+it much more human readable and easier on the eyes. This partciular
+version was built for a light background, so you may have to edit it for
+darker backgrounds
+
+This script was originally built for the SilverIRC IRC-Ops, of which I am
+one of three. We use this everyday and have, together, modified it to its
+current state. To use this script, just make it executable by executing
+"chmod +x /path/to/sIRCOperFilter-v*.pl" and then load it as a script/plugin.
+That's it!
+
+Before this script, I hadn't really delved into perl before, and since making
+this script, I've come to respect it more and more. I hope you enjoy using it
+as much as I enjoyed making it. :)
+
+~KittyKatt (Brett Bohnenkamper)
