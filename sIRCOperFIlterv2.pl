@@ -9,14 +9,6 @@
 ##########################################
 ##         feel free to edit it         ##
 ##########################################
-##           Revision 1 (v2.0)          ##
-##                                      ##
-##     -Consolidated all notices        ##
-##      back into (snotices) tab.       ##
-##     -Color coded sections of         ##
-##      notices for better reading.     ##
-##                                      ##
-##########################################
 
 
 $SCRIPTNAME = "SilverIRC Oper-Filter";

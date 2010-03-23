@@ -3,3 +3,10 @@
 Revision 1 (v2.0)
     -Consolidated all notices back into (snotices) tab.
     -Color coded sections of notices for better reading.
+    
+Revision 2 (v3.0)
+    -Complete rewrite.
+    -Coded so that status code appears left of tab margin and message appears at right.
+
+Revision (v3.1)
+    -Changed "Announcement" into "Announce" and all "Remote*" into "*(R)"
