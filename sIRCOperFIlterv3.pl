@@ -29,7 +29,8 @@
 ##     -Removed 'SilverIRC' from        ##
 ##      description                     ##
 ##     -Removed some whitespace from    ##
-##      the notices
+##      the notices                     ##
+##     -Removed colons from notices     ##
 ##########################################
 
 $SCRIPTNAME = "Oper-Filter";
