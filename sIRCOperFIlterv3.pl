@@ -89,7 +89,7 @@ sub filter_snotice {
 		return 1;
 	} elsif ($line =~ m/REMOTEANNOUNCEMENT/) {
 		$line =~ s/^\*\*\* REMOTEANNOUNCEMENT: //;
-		HexChat::emit_print('Generic Message', "\cB\cC30[\cC20Announce (R)", $line);
+		HexChat::emit_print('Generic Message', "\cB\cC30[\cC20Announce (R)\cC30]", $line);
 		return 1;
 	} elsif ($line =~ m/ANNOUNCEMENT/) {
 		$line =~ s/^\*\*\* ANNOUNCEMENT: //;
